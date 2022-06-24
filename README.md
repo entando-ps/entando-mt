@@ -1,4 +1,4 @@
-# Entando CRDs for the multitenant implementatio
+# Entando CRDs for the multitenant implementation
 
 These manifests target the `6.3.2` release of Entando. The namespace resources have been patched to point to the correct docker images (6.5.0).
 
